@@ -1,1 +1,1 @@
-{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"tobias","dependencies":[]}]}
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[{"name":"tobias","path":"/Users/liujie/Work/tobias/","dependencies":[]}],"android":[{"name":"tobias","path":"/Users/liujie/Work/tobias/","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"tobias","dependencies":[]}],"date_created":"2020-08-03 16:24:38.637938","version":"1.21.0-6.0.pre.40"}
